@@ -4,7 +4,6 @@ import os
 import subprocess
 from flask.ext.script import Shell, Manager
 from helpers import CreateApp
-# from usr import Usr
 from ext import db
 import commands
 
