@@ -1,0 +1,27 @@
+# for windows I had to set PYTHONPATH=C:\Python27;C:\Python27\Lib;C:\Python27\DLLs to run pip install -r requirements.txt
+
+unittest2
+Flask
+Werkzeug
+Jinja2
+Flask-PyMongo
+Flask-Assets
+webassets
+jsmin
+cssmin
+Flask-WTF
+WTForms
+Flask-DebugToolbar
+Flask-Script
+Flask-Mail
+Flask-Login
+Flask-Testing
+blinker
+Flask-Cache
+Fabric
+schematics
+ipython
+ssh
+pycrypto
+python-memcached
+
