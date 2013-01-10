@@ -61,7 +61,7 @@ Project/Project Settings
     Environment
         Python Path (Added):
             <virtualenvs_dir>\exi\Lib\site-packages
-            c:\Users\Larry\__prjs\pyfem
+            c:\Users\Larry\__prjs\exi
         Environment (Add to inherited environment)
         	PROJECT_SETTINGS=<projects_dir>\exi\exi\tests\local_settings.py
     Debug

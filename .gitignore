@@ -24,7 +24,7 @@ exi/tests/local_settings.py
 .project
 .pydevproject
 
-exi.wp?
+wing-exi*
 sublime.sublime*
 
 *.project
